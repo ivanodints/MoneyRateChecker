@@ -1,0 +1,15 @@
+###
+GET http://localhost:8010/cbrf/api/v1/rate/UAH
+Content-Type: application/json
+
+###
+GET http://localhost:8010/cbrf/api/v1/rate/USD
+Content-Type: application/json
+
+###
+GET http://localhost:8010/cbrf/api/v1/rate/GBP
+Content-Type: application/json
+
+###
+GET http://localhost:8010/cbrf/api/v1/rate/TRY
+Content-Type: application/json
